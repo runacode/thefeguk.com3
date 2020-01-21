@@ -273,7 +273,7 @@ $ksdk = new KonnektiveSDK($pageType, $deviceType);
     ?>
     }
     <script type='text/javascript'>
-        window.__lo_site_id = <?php echo $data->Lo_Site_Id; ?>
+        window.__lo_site_id = <?php echo $data->Lo_Site_Id; ?>;
 
             (function () {
                 var wa = document.createElement('script');
