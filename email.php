@@ -76,7 +76,7 @@ include 'includes/data.php';
 <div class="container mt-5" style="clear:both;">
     <div class="row">
         <div class="col-lg-8 col-sm-12 product-description">
-            <?php include 'includes/description-safe.php' ?>
+            <?php include 'includes/description-email.php' ?>
         </div>
     </div>
 
